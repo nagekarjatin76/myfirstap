@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+*carousel-item{
+  width: 100%;
+  height: 550px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.card{
+  margin-top: 20px;
+  width: 100%;
+  height: 450px;
+  margin-bottom: 30px;
+}
+
+/* .card:hover{
+  position: absolute;
+  background-color: rgba(224, 224, 133, 0.852);
+  height: 50px;
+  width: 500px;
+  margin-top: 150px;
+  color: red;} */
+  .jatin{
+  margin-top: 45px;
+  }
+  .jatin2{
+    margin-top: 20px;
+  }
+.j1{
+  margin-top: 6
+  0px;
+  margin-bottom: 30px;
+}
+ 
+.j2{
+  margin-top: 30px;
+}
+.stars{
+  color: orange;
+}
+.j3{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.form-floating{
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.j4{
+  color: orange;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
